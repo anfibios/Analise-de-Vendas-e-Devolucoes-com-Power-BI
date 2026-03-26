@@ -1,0 +1,22 @@
+Importe para o Power BI a planilha 003-Apoio2, Base Vendas
+
+1- Remova as linhas em brancos
+2- Remova a colunn7 que está "null"
+3- como o seu Power BI está em português, transforme a coluna data 
+para o tipo data,  e ajuste a linguagem para inglês (EUA).
+4- mescle o nome e sobrenome, separado por espaço e coloque o nome da coluna de "Nome Completo" 
+5- Renomeie nome da tabela para "Novas Vendas"
+7- Adicione uma nova coluna do tipo "data " onde os dados serão mês, utilizando da coluna data existente.
+8- Adicione uma nova coluna como o nome de faturamento, nela tem que conter os resultado do preço
+preço unitário com a quantidade vendida, coloque na moeda português Brasil.
+9- Salve e aplique.
+
+Importe para o Power BI a planilha 003 - Apoio1, Base Devoluções
+
+1- Remova as linhas em brancos
+2- Remova a colunn7 que está "null"
+3- como o seu Power BI está em português, transforme a coluna data 
+para o tipo data,  e ajuste a linguagem para inglês (EUA).
+4- Adicione uma nova coluna do tipo "data " onde os dados serão mês, utilizando da coluna data existente. 
+5- Renomeie nome da tabela para "Novas Vendas"
+6-
